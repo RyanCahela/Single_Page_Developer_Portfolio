@@ -1,0 +1,17 @@
+:root {
+    /* Color styles */
+    --black: hsla(0, 0%, 8.2%, 1); 
+    --dark--grey: hsla(0, 0%, 14.1%, 1);
+    --green: hsla(153, 71%, 59.4%, 1);
+    --grey: hsla(0, 0%, 85.1%, 1);
+    --white: hsla(0, 0%, 100%, 1); 
+
+    /* Text-size styles */
+    /* base size: heading--x-l (88px) */
+    --heading--x-l: 1rem;
+    --heading--l: 0.55rem;
+    --heading--m: 0.27rem;
+    --body: 0.2rem;
+}
+
+
